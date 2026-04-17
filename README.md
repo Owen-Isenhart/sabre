@@ -1,5 +1,6 @@
 # mage
-*machine access and governance engine*
+*machine access and governance engine*  
+*this is being done in preparation for my goldman sachs internship on the IAM team*
 
 ## Project Outline
 
