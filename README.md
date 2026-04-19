@@ -1,7 +1,10 @@
 # mage
-*machine access and governance engine* *this is being done in preparation for my goldman sachs internship on the IAM team*
+*machine access and governance engine*  
+*this is being done in preparation for my goldman sachs internship on the IAM team*
 
 ## Project Outline
+**Phase 0: Study Java, Spring Boot, and Other Resources**
+* Go through textbooks and project specific resources, take notes, and follow along with examples
 
 **Phase 1: Identity Broker (Java) & Vault Integration**
 * Deploy HashiCorp Vault. Generate an RSA key pair and store the private key inside Vault.
