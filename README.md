@@ -1,5 +1,4 @@
-# SABRE
-*System Account & Binary Resource Engine*  
+# glide
 *This is being done in preparation for my Goldman Sachs internship on the IAM Infrastructure team.*
 
 ---
